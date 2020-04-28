@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">api_crud_rest</string>
+    <string name="btnRequest">Consultar</string>
+</resources>
